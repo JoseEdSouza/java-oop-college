@@ -42,4 +42,4 @@ This code is open-source and available under the [MIT License](/LICENSE). You ar
 
 ## 🙌 Contributions
 
-While the solutions are complete, I welcome contributions and improvements. If you have suggestions for optimizing the code or if you encounter any errors, please don't hesitate to [open an issue](link-to-issues) or [submit a pull request](link-to-pull-requests).
+While the solutions are complete, I welcome contributions and improvements. If you have suggestions for optimizing the code or if you encounter any errors, please don't hesitate to [open an issue](https://github.com/JoseEdSouza/java-oop-college/issues) or [submit a pull request](https://github.com/JoseEdSouza/java-oop-college/pulls).
