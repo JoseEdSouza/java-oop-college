@@ -30,8 +30,7 @@ Here is a list of the Beecrowd problems I have solved:
     - [Solution](./Saltos/main.py)
 
 8. [Problem 2174: Coleção de Pomekon](https://www.beecrowd.com.br/judge/pt/problems/view/2174)
-    - [Solution Java](./Pomedex/App.java)
-    - [Solution Python](./Pomedex/main.py)
+    - [Solution](./Pomedex/App.java)
 
 9. [Problem 1258: Camisetas](https://www.beecrowd.com.br/judge/pt/problems/view/1258)
     - [Solution](./Camisetas/main.py)
