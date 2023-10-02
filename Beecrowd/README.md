@@ -7,34 +7,34 @@ This repository contains my solutions to various programming problems from [Beec
 Here is a list of the Beecrowd problems I have solved:
 
 1. [Problem 1589: Bob Conduit](https://www.beecrowd.com.br/judge/pt/problems/view/1589)
-    - [Solution](./Beecrowd/Bob%20Conduite/main.py)
+    - [Solution](./Bob%20Conduite/main.py)
 
 2. [Problem 1038: Snack](https://www.beecrowd.com.br/judge/pt/problems/view/1038)
-    - [Solution Java](./Beecrowd/Cantina/App.java)
-    - [Solution Python](./Beecrowd/Cantina/main.py)
+    - [Solution Java](./Cantina/App.java)
+    - [Solution Python](./Cantina/main.py)
 
 3. [Problem 2221: Batalha de Pomekons](https://www.beecrowd.com.br/judge/pt/problems/view/2221)
-    - [Solution](./Beecrowd/ComabatePomekon/App.java)
+    - [Solution](./ComabatePomekon/App.java)
 
 4. [Problem 2708: Turistas no Parque Huacachina](https://www.beecrowd.com.br/judge/pt/problems/view/2708)
-    - [Solution](./Beecrowd/Turismo/main.py)
+    - [Solution](./Turismo/main.py)
 
 5. [Problem 2167: Falha do Motor](https://www.beecrowd.com.br/judge/pt/problems/view/2167)
-    - [Solution](./Beecrowd/Motor/main.py)
+    - [Solution](./Motor/main.py)
 
 6. [Problem 1961: Pula Sapo](https://www.beecrowd.com.br/judge/pt/problems/view/1961)
-    - [Solution Java](./Beecrowd/PulaSapo/App.java)
-    - [Solution Python](./Beecrowd/PulaSapo/main.py)
+    - [Solution Java](./PulaSapo/App.java)
+    - [Solution Python](./PulaSapo/main.py)
 
 7. [Problem 2311: Saltos Ornamentais](https://www.beecrowd.com.br/judge/pt/problems/view/2311)
-    - [Solution](./Beecrowd/Saltos/main.py)
+    - [Solution](./Saltos/main.py)
 
 8. [Problem 2174: Coleção de Pomekon](https://www.beecrowd.com.br/judge/pt/problems/view/2174)
-    - [Solution Java](./Beecrowd/Pomedex/App.java)
-    - [Solution Python](./Beecrowd/Pomedex/main.py)
+    - [Solution Java](./Pomedex/App.java)
+    - [Solution Python](./Pomedex/main.py)
 
 9. [Problem 1258: Camisetas](https://www.beecrowd.com.br/judge/pt/problems/view/1258)
-    - [Solution](./Beecrowd/Camisetas/main.py)
+    - [Solution](./Camisetas/main.py)
 
 ## Languages
 
